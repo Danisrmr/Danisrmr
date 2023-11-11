@@ -10,13 +10,15 @@
   
 - 💬 Ask me about telecommunications fundamentals, Web development fundamentals, virtual reality, augmented reality and design 3D fundamentals; also I like to organize events like conferences, parties, courses and workshops.
 
-- 📫 How to reach me: Ypu can connect with me on 
+- 📫 How to reach me: You can connect with me on 
   
      [LinkedIn](https://www.linkedin.com/in/alma-daniela-romero-d%C3%ADaz-749266265)
 
      [Instagram](https://instagram.com/danisrmr?igshid=MzMyNGUyNmU2YQ==)
 
      [Facebook](https://www.facebook.com/daniela.050601?mibextid=LQQJ4d)
+
+     [Portfolio](https://danisrmr.github.io/)
   
 - ⚡ Fun fact: I really into watch disney's movies
 
