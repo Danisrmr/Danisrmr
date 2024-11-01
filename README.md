@@ -1,14 +1,14 @@
 # Hello, world! 👋
 
-- 🔭 I’m currently working at Centro de Innovación y Diseño, Laboratorio de Realidad Virtual y EdiciónDigital, UAEMex as intern, I am responsible for programming and animating content for the virtual platform, as well as providing functionalities and dynamics that improve the user experience.
+- 🔭 I’m currently working at Minsait, Indra Sistemas as analyst, I am responsible for manage people's access within the project as well as have a homologation between the devices.
   
-- 🌱 I’m currently learning frontend programming (HTML, CSS, JavaScript) and virtual reality on Unity
+- 🌱 I’m currently learning fundamentals of cybersecurity and skills of project manager.
   
-- 👯 I’m looking to collaborate on proyects related with innovation, creativity, technology and education to develop more experiences
+- 👯 I’m looking to collaborate on proyects related with innovation, creativity, technology and education to develop more experiences.
   
-- 🤔 I’m looking for help with developing experience in my area of study which is programming
+- 🤔 I’m looking for help with developing experience in my area of study which is cybersecurity.
   
-- 💬 Ask me about telecommunications fundamentals, Web development fundamentals, virtual reality, augmented reality and design 3D fundamentals; also I like to organize events like conferences, parties, courses and workshops.
+- 💬 Ask me about telecommunications fundamentals, Web development fundamentals, virtual reality, augmented reality, design 3D fundamentals and cybersecurity fundamentals; also I like to organize events like conferences, parties, courses and workshops.
 
 - 📫 How to reach me: You can connect with me on 
   
